@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cPNmieeCHJiX4szN/cRg70mMUlyid8q0vEaYdMM/wDQ=",
+  "Source": "SimpleBookstoreAPI",
+  "BasePath": "_content/SimpleBookstoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
